@@ -1,5 +1,4 @@
 ### Welcome to my homepage !!
 
-Min Zeng
-
+PhD student at Waseda University, Japan
 Email: zengmin (at) fuji.waseda.jp
